@@ -3,3 +3,5 @@
 ** Camping
 *** California state parks
 Nope :(
+*** a website where that exact question is allegedly answered
+[[https://www.bringfido.com/lodging/campgrounds/state/california/][bringfido.com/lodgings/campground/state/california]]
